@@ -1,0 +1,13 @@
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.csprojAssemblyReference.cache
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.csproj.CoreCompileInputs.cache
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.AssemblyInfoInputs.cache
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.AssemblyInfo.cs
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.exe
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.deps.json
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.runtimeconfig.json
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.runtimeconfig.dev.json
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.dll
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\bin\Debug\netcoreapp3.1\Algorithms.Excercies.pdb
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.dll
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.pdb
+C:\softwares\markapp\algorithms\tutorial\002\Algorithms.Excercies\obj\Debug\netcoreapp3.1\Algorithms.Excercies.genruntimeconfig.cache

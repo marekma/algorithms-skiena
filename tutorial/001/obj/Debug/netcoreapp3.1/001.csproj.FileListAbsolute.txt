@@ -1,0 +1,13 @@
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.exe
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.deps.json
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.runtimeconfig.json
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.runtimeconfig.dev.json
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.dll
+C:\softwares\markapp\algorithms\tutorial\001\bin\Debug\netcoreapp3.1\001.pdb
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.csprojAssemblyReference.cache
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.csproj.CoreCompileInputs.cache
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.AssemblyInfoInputs.cache
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.AssemblyInfo.cs
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.dll
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.pdb
+C:\softwares\markapp\algorithms\tutorial\001\obj\Debug\netcoreapp3.1\001.genruntimeconfig.cache
