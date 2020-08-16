@@ -56,15 +56,12 @@ namespace reverse
         {
             LinkedListNode head = new LinkedListNode(data);
 
-            if (Head == null)
-            {
-                Head = head;
-            }
-            else
+            if (Head != null)
             {
                 head.Next = new LinkedListNode(Head);
-                Head = head;
             }
+
+            Head = head;
 
             Tail = FindTail();
         }
